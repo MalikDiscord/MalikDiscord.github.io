@@ -54,10 +54,10 @@
     <script src="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.js"></script>
     <script type="text/javascript">
       $.getJSON("./db/db.json", function(data) {
-        var mydata = data;
+        var mydata = data.reverse();
         $(document).ready(function() {
           $('table').bootstrapTable({
-            data: mydata.reverse();
+            data: mydata
           });
         });
       });
