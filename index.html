@@ -63,7 +63,12 @@ for Bootstrap table -->
         });
       });
       // Specify the JSON data to be displayed
-      var mydata = require('./db/db.json');
+      //var mydata = require('./db/db.json');
+      $(document).ready(function() {
+        $.getJSON("ajax-json.js", function(data) {
+          var mydata = data;
+        });
+      });
     </script>
   </body>
 </html>
