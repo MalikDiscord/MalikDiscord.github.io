@@ -53,6 +53,30 @@
     <!-- Include the JavaScript file for Bootstrap table -->
     <script src="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.js"></script>
     <script type="text/javascript">
+	var settings = {
+          'cache': false,
+          'dataType': "jsonp",
+          "async": true,
+          "crossDomain": true,
+          "url": "./db/db.json",
+          "method": "GET",
+          "headers": {
+              "accept": "application/json",
+              "Access-Control-Allow-Origin":"*"
+          }
+      }
+
+      $.ajax(settings).done(function (response) {
+          console.log(response);
+		  var mydata = response;
+		  $(document).ready(function() {
+          $('table').bootstrapTable({
+            data: mydata
+          });
+        });
+
+      });
+	  /*
       $.getJSON("./db/db.json", function(data) {
         var mydata = data;
         $(document).ready(function() {
@@ -61,6 +85,7 @@
           });
         });
       });
+	  */
     </script>
   </body>
 </html>
