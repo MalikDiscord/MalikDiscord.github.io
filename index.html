@@ -62,13 +62,11 @@ for Bootstrap table -->
           data: mydata
         });
       });
+      $.getJSON("./db/db.json", function(data) {
+        var mydata = data;
+      });
       // Specify the JSON data to be displayed
       //var mydata = require('./db/db.json');
-      $(document).ready(function() {
-        $.getJSON("./db/db.json", function(data) {
-          var mydata = data;
-        });
-      });
     </script>
   </body>
 </html>
