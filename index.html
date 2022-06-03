@@ -2,15 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,
-				initial-scale=1,
-				shrink-to-fit=no">
-    <title> load data from json file into a bootstrap table </title>
-    <script type="text/javascript" src="./db/db.json"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> MalikDiscord </title>
     <!-- Include Bootstrap for styling -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <!-- Include the Bootstrap Table CSS
-for the table -->
+    <!-- Include the Bootstrap Table CSS for the table -->
     <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.css">
   </head>
   <body>
@@ -21,6 +17,7 @@ for the table -->
             <th data-field="time_stamp">
               <span class="text-success"> time_stamp </span>
             </th>
+			<!-- 
             <th data-field="group_name">
               <span class="text-success"> group_name </span>
             </th>
@@ -30,43 +27,40 @@ for the table -->
             <th data-field="topic_id">
               <span class="text-success"> topic_id </span>
             </th>
+			-->
             <th data-field="post_id">
               <span class="text-success"> post_id </span>
             </th>
             <th data-field="author">
               <span class="text-success"> author </span>
             </th>
-            <th data-field="content">
-              <span class="text-success"> content </span>
-            </th>
             <th data-field="is_feeded">
               <span class="text-success"> is_feeded </span>
             </th>
+			<!-- 
+			<th data-field="content">
+              <span class="text-success"> content </span>
+            </th>
+			-->
           </tr>
         </thead>
       </table>
     </div>
-    <!-- Include jQuery and other required
-files for Bootstrap -->
+    <!-- Include jQuery and other required files for Bootstrap -->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-    <!-- Include the JavaScript file
-for Bootstrap table -->
+    <!-- Include the JavaScript file for Bootstrap table -->
     <script src="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.js"></script>
     <script type="text/javascript">
       $.getJSON("./db/db.json", function(data) {
         var mydata = data;
         $(document).ready(function() {
-          // Use the given data to create
-          // the table and display it
           $('table').bootstrapTable({
             data: mydata
           });
         });
       });
-      // Specify the JSON data to be displayed
-      //var mydata = require('./db/db.json');
     </script>
   </body>
 </html>
