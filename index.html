@@ -55,15 +55,15 @@ files for Bootstrap -->
 for Bootstrap table -->
     <script src="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.js"></script>
     <script type="text/javascript">
+      $.getJSON("./db/db.json", function(data) {
+        var mydata = data;
+      });
       $(document).ready(function() {
         // Use the given data to create
         // the table and display it
         $('table').bootstrapTable({
           data: mydata
         });
-      });
-      $.getJSON("./db/db.json", function(data) {
-        var mydata = data;
       });
       // Specify the JSON data to be displayed
       //var mydata = require('./db/db.json');
