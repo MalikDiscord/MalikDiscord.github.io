@@ -59,9 +59,10 @@
           $('table').bootstrapTable({
             data: mydata
           });
-	document.title = $('#remgc tr').length;
+		  document.title = $('#remgc tr').length;
         });
       });
+	  $("#table tr td:first-child").addClass("timeago");
     </script>
   </body>
 </html>
