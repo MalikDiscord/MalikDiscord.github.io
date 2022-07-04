@@ -62,7 +62,9 @@
 		  document.title = $('#remgc tr').length;
         });
       });
-	  $("#remgc tr td:first-child").addClass("timeago");
+	  $( document ).ready(function() {
+		$("#remgc tr td:first-child").addClass("timeago");
+		});
     </script>
   </body>
 </html>
