@@ -1,15 +1,5 @@
 [
     {
-        "time_stamp": 1679432823,
-        "group_name": "RemGC",
-        "forum_id": 9,
-        "topic_id": 1736595131052961774,
-        "post_id": 3828662280419445141,
-        "author": "mat.duf",
-        "content": "TWlycm9yXCdzIEVkZ2Ugd29uXCd0IGJlIGRlbGlzdGVkIGZvciBub3c6IGh0dHBzOi8vdHdpdHRlci5jb20vQmF0dGxlZmllbGQvc3RhdHVzLzE2MzgyNjYzNTc5MzMzMDE3NjBcblxuSG93ZXZlciwgaWYgeW91IGRvblwndCBrbm93LCBhIDIwMjEgbGVhayBmcm9tIEdlZm9yY2UgTm93IGRhdGFiYXNlIGluY2x1ZGVkIE1pcnJvcnMgRWRnZSBSVFggUmVtYXN0ZXIgd2hpY2ggbWF5IG9yIG1heSBub3Qgc3RpbGwgYmUgaW4gZGV2ZWxvcG1lbnQgYW5kIHN1cGVyc2VkZSB0aGUgY3VycmVudCB2ZXJzaW9uIGlmIGl0IGdldHMgcmVsZWFzZWQ6IGh0dHBzOi8vd3d3LnJlZGRpdC5jb20vci9HYW1pbmdMZWFrc0FuZFJ1bW91cnMvY29tbWVudHMvcG5kd2V5L2RlZmluaXRpdmVfY29tcGlsYXRpb25fb2ZfbGVha2VkX2dlZm9yY2Vfbm93Lw==",
-        "is_feeded": 1
-    },
-    {
         "time_stamp": 1679432829,
         "group_name": "RemGC",
         "forum_id": 9,
@@ -1987,6 +1977,16 @@
         "post_id": 3829792183354500972,
         "author": "\ua758 Ghosthunter \ua758",
         "content": "aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8xOTcyODIwL1N1aWNpZGVfR3V5X0RlbHV4ZV9QbHVzL1xuXG5CYWNrIG9uIHN0b3JlIQ==",
+        "is_feeded": 1
+    },
+    {
+        "time_stamp": 1683340774,
+        "group_name": "RemGC",
+        "forum_id": 9,
+        "topic_id": 1736595131052961774,
+        "post_id": 3829792183355039184,
+        "author": "Orang Asli",
+        "content": "aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8yMTY1NjEwLzUvXG5cbnJldHVybmVk",
         "is_feeded": 1
     }
 ]
