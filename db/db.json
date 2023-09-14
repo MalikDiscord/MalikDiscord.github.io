@@ -1,45 +1,5 @@
 [
     {
-        "time_stamp": 1689615239,
-        "group_name": "RemGC",
-        "forum_id": 9,
-        "topic_id": 1736595131052961774,
-        "post_id": 5956623715035748489,
-        "author": "temp",
-        "content": "W0BdQ0IyMFhYIDogaHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC83OTM2ODAvRmlzc2lvbl9TdXBlcnN0YXJfWC9cblxuaHR0cHM6Ly9zdGVhbWRiLmluZm8vYXBwLzc5MzY4MC9cblxuaHR0cHM6Ly9zdGVhbWNvbW11bml0eS5jb20vYXBwLzc5MzY4MC9ldmVudGNvbW1lbnRzLzU4NDE3ODE5MjQ1MzU2NzE5MjU\/c25yPTFfNV85X1xuXG5QcmljZSBnb2luZyB0byBiZSBzdXBwb3NlZGx5IHJlZHVjZWQgZm9yIHRoZSB3ZWVrICBbQF0gXG5cbk9uIHNhbGUgbm93Lg==",
-        "is_feeded": 1
-    },
-    {
-        "time_stamp": 1689665590,
-        "group_name": "RemGC",
-        "forum_id": 9,
-        "topic_id": 1736595131052961774,
-        "post_id": 5956624020511402607,
-        "author": "lexder",
-        "content": "aHR0cHM6Ly9zdGVhbWNvbW11bml0eS5jb20vZ2FtZXMvMjEzMzQ5MC9hbm5vdW5jZW1lbnRzL2RldGFpbC81NTcxNTY1OTQ2MTE0MTE5MDkyXG5MaXZlIEN5Y2xpbmcgTWFuYWdlciAyMDIyIHwgaHR0cHM6Ly9zdGVhbWRiLmluZm8vYXBwLzIxMzM0OTAvXG5cbmh0dHBzOi8vc3RvcmUuc3RlYW1wb3dlcmVkLmNvbS9hcHAvMjEzMzQ5MC8=",
-        "is_feeded": 1
-    },
-    {
-        "time_stamp": 1689667851,
-        "group_name": "RemGC",
-        "forum_id": 9,
-        "topic_id": 1736595131052961774,
-        "post_id": 5956624020511500937,
-        "author": "Goku",
-        "content": "aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC84OTA5NDAvUm9tYW5jaW5nX01vbmFyY2h5L1xuaHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL25ld3MvYXBwLzg5MDk0MC92aWV3LzcyODI5MzM4MDg0ODQ5MTI5NDY=",
-        "is_feeded": 1
-    },
-    {
-        "time_stamp": 1689707143,
-        "group_name": "RemGC",
-        "forum_id": 9,
-        "topic_id": 1736595131052961774,
-        "post_id": 5956624020513160271,
-        "author": "crush_overider",
-        "content": "W0BdVGhyZWVTb24gOiBbQF1Mb25lckQgOiBNeSBDaGlsZCBMZWJlbnNib3JuIGlzIG5vIGxvbmdlciBhdmFpbGFibGUgb24gdGhlIFN0ZWFtIHN0b3JlLiA6c2FkY3ViZTpcbmh0dHBzOi8vc3RlYW1kYi5pbmZvL2FwcC8xMTE0MDcwL1xuaHR0cHM6Ly9zdGVhbWNvbW11bml0eS5jb20vYXBwLzExMTQwNzAvICBbQF0gXG5cbkZZSSB0aGUgZ2FtZSB3YXMgcmVtb3ZlZCBiZWNhdXNlIHRoZXJlXCdzIGEgcmVtYXN0ZXIgY29taW5nIG91dDogXG5cbmh0dHBzOi8vc3RlYW1kYi5pbmZvL2FwcC8yNDMwNzMwL1xuaHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8yNDMwNzMwL015X0NoaWxkX0xlYmVuc2Jvcm5fUmVtYXN0ZXJlZCAgW0BdIFxuXG5cblRoZSBnYW1lIGlzIGFscmVhZHkgZm9yIGRvd25sb2FkOlxuXG5odHRwczovL3BybnQuc2MvUUpRZUxPOHpwNVhi",
-        "is_feeded": 1
-    },
-    {
         "time_stamp": 1689729089,
         "group_name": "RemGC",
         "forum_id": 9,
@@ -1987,6 +1947,46 @@
         "post_id": 6504942507055327571,
         "author": "GRIMM",
         "content": "W0BdbWNuaWNob2ogOiBbQF3qnZggR2hvc3RodW50ZXIg6p2YIDogUHJvcGVyIHJpcG9mZlxuXG5odHRwczovL3N0b3JlLnN0ZWFtcG93ZXJlZC5jb20vYXBwLzI1NTg2MzAvUmVzaWRlbnRfRmVhcl9fUmVkaXN0cmlidXRpb24vICBbQF0gXG5DYXBjb20gZG9lc25cJ3Qgb3duIHRoZSByaWdodHMgdG8gYW55dGhpbmcgaW4gdGhhdCBnYW1lLiAgW0BdIFxuXG5UaGV5IGFyZSBhY3R1YWxseSB1c2luZyB0aGUgdW1icmVsbGEgbG9nbyBpbiB0aGUgZ2FtZSBhcyB3ZWxsIGFzIGhhdmluZyBhIGNoYXJhY3RlciBuYW1lZCBXZXNrZXIuIEkgZG9uXCd0IGtub3cgaWYgV2Vza2VyIGlzIGEgc2VlbiBjaGFyYWN0ZXIgb3IganVzdCBuYW1lZCB0aG91Z2guIFRoYXRcJ3MgYWxsIGlcJ20gYWRkaW5nIGZvciB0aGlzIHRvcGljIHRob3VnaCwgYW5kIGlmIGFueW9uZSB3b3VsZCB0byBkaXNjdXNzIGl0IGZ1cnRoZXIsIHBsZWFzZSBvcGVuIHVwIGEgbmV3IHRvcGljIG9yIGNhcnJ5IG9uIQ==",
+        "is_feeded": 1
+    },
+    {
+        "time_stamp": 1694680400,
+        "group_name": "RemGC",
+        "forum_id": 9,
+        "topic_id": 1736595131052961774,
+        "post_id": 6504942507055670792,
+        "author": "Dexter",
+        "content": "W0BdbWNuaWNob2ogOiBJXCdkIHNheSBnYW1lIGlzIGF0IG1lZGl1bSByaXNrLiBbQF0gXG5cbmFwYXJ0IGZyb20gdGhlIGZhY3QgdGhhdCBpdCBpcyBleHRyZW1lbHkgYmFkbHkgbWFkZS4uLlxuXG50aGUgaW50cm8gY29uc2lzdHMgb2YgYSBmaWxtIGNsaXAgdG8gd2hpY2ggY2VydGFpbmx5IG5vIHJpZ2h0cyB3ZXJlIGFjcXVpcmVkICggaHR0cHM6Ly9zdGVhbWNvbW11bml0eS5jb20vYXBwLzI1NTg2MzAvZGlzY3Vzc2lvbnMvMC8zODE1MTY2NjI5OTI2Njk3Mzc1LyNjMzgxNTE2Njk5NDE1MzgzNzEyOCApLCBpbiBhZGRpdGlvbiwgdGhleSBoYXZlIHVzZWQgcGFydHMgZnJvbSBhIHZpZGVvIG9mIHRoZSBiZWxsIHRvd2VyLCB0aGlzIG9uZTpcblxuaHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g\/dj00aU1NdHZ2TFRUVVxuXG5BbmQgYXBhcnQgZnJvbSB0aGF0IHRoZXkgXCJ0cmllZFwiIHRvIGNvcHkgaXQgMToxLCB0aGUgc2NlbmUgd2hlcmUgSmlsbCBoYXMgdG8gY3Jhd2wgdW5kZXIgdGhlIGJhcnMgYXQgdGhlIGJlZ2lubmluZyBpcyBoZXJlIHRvbywgYnV0IHlvdSBjYW4ganVzdCB3YWxrIHRocm91Z2ggaXQuLi5cbmNhcGNvbSBkb2VzblwndCBoYXZlIHRoZSByaWdodHMgdG8gdGhlIG5hbWUgXCJ3ZXNrZXJcIiBvZiBjb3Vyc2UsIGJ1dCB3aGVuIHlvdSBsb29rIGF0IGl0IGFsbCB0b2dldGhlciBpdFwncyBqdXN0IHRlcnJpYmx5IGNvcGllZC4uLiB0aGUgd2F5IHRoZSB0aXRsZSBpcyB3cml0dGVuLCBuYW1lcywgbG9nb3MsIHNjZW5lcy4uLi5cblxuY29sbGVjdGluZyBpbiBhbGwgaG9ub3IsIGJ1dCB0aGUgXCJkZXZlbG9wZXJzXCIgaGF2ZSBub3QgZGVzZXJ2ZWQgYSBjZW50IGZvciBpdCB4RFxuXG5JIGp1c3Qgd2FudGVkIHRvIGFkZCB0aGlzIGFzIGluZm8sIElcJ20gb3V0IQ==",
+        "is_feeded": 1
+    },
+    {
+        "time_stamp": 1694680405,
+        "group_name": "RemGC",
+        "forum_id": 9,
+        "topic_id": 1736595131052961774,
+        "post_id": 6504942507055685255,
+        "author": "Orang Asli",
+        "content": "aHR0cHM6Ly90d2l0dGVyLmNvbS9WaWRlb2N1bHRNZWRpYS9zdGF0dXMvMTcwMTk1MDgwNzA1MzEyMzc3MVxuXG5odHRwczovL3N0b3JlLnN0ZWFtcG93ZXJlZC5jb20vYXBwLzMxMjUyMC9fLw==",
+        "is_feeded": 1
+    },
+    {
+        "time_stamp": 1694682430,
+        "group_name": "RemGC",
+        "forum_id": 9,
+        "topic_id": 1736595131052961774,
+        "post_id": 6504942507055708545,
+        "author": "lexder",
+        "content": "aHR0cHM6Ly9zdGVhbWNvbW11bml0eS5jb20vZ2FtZXMvMTUxOTYxMC9hbm5vdW5jZW1lbnRzL2RldGFpbC82MTM2NzczMjM2NzMxMDEyMDE5XG5Bc3NhdSF0IHwgaHR0cHM6Ly9zdGVhbWRiLmluZm8vYXBwLzE1MTk2MTAvXG5cbmh0dHBzOi8vc3RvcmUuc3RlYW1wb3dlcmVkLmNvbS9hcHAvMTUxOTYxMC8=",
+        "is_feeded": 1
+    },
+    {
+        "time_stamp": 1694693569,
+        "group_name": "RemGC",
+        "forum_id": 9,
+        "topic_id": 1736595131052961774,
+        "post_id": 6504942507056215636,
+        "author": "Myrsan",
+        "content": "d2lsbCBiZSBwdXJjaGFzZSBkaXNhYmxlZCB1bnRpbCBwb3J0ZWQgdG8gVW5yZWFsOiBodHRwczovL3N0b3JlLnN0ZWFtcG93ZXJlZC5jb20vbmV3cy9hcHAvNjQxOTUwL3ZpZXcvNTkyODQ4MTc1MjQ3MzE4OTQ4NVxuaHR0cHM6Ly9zdGVhbWRiLmluZm8vYXBwLzY0MTk1MC8=",
         "is_feeded": 1
     }
 ]
