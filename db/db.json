@@ -1,85 +1,5 @@
 [
     {
-        "time_stamp": 1772208027,
-        "group_name": "RemGC",
-        "forum_id": 9,
-        "topic_id": 1736595131052961774,
-        "post_id": 756178665390406475,
-        "author": "Acrylic",
-        "content": "TW9ycGhvc1xuaHR0cHM6Ly9zdGVhbWNvbW11bml0eS5jb20vZ2FtZXMvNDA3NjQ4MC9hbm5vdW5jZW1lbnRzL2RldGFpbC81MTYzNjE5ODUyNDk1MTAwNjFcblxuaHR0cHM6Ly9zdGVhbWRiLmluZm8vYXBwLzQwNzY0ODAv",
-        "is_feeded": 1
-    },
-    {
-        "time_stamp": 1772227219,
-        "group_name": "RemGC",
-        "forum_id": 9,
-        "topic_id": 1736595131052961774,
-        "post_id": 756178665390427640,
-        "author": "JOEY",
-        "content": "aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8zODM4MzEwL0RlY2tvdXQvXG5EZWNrb3V0IHwgaHR0cHM6Ly9zdGVhbWRiLmluZm8vYXBwLzM4MzgzMTAvXG5cbmh0dHBzOi8vc3RlYW1jb21tdW5pdHkuY29tL2dhbWVzLzM4MzgzMTAvYW5ub3VuY2VtZW50cy9kZXRhaWwvNTA3MzU0Nzg1OTk0NzY5MDEw",
-        "is_feeded": 1
-    },
-    {
-        "time_stamp": 1772228979,
-        "group_name": "RemGC",
-        "forum_id": 9,
-        "topic_id": 1736595131052961774,
-        "post_id": 756178665390430601,
-        "author": "Cream",
-        "content": "W0BdY2xldmVkb24ubWMgOiAgIFtAXSBcblxuT25lIG1vcmUsIEVORFJBWVNcbmh0dHBzOi8vc3RlYW1kYi5pbmZvL2FwcC8yMjEzNTYwL1xuaHR0cHM6Ly9zdGVhbWNvbW11bml0eS5jb20vZ2FtZXMvMjIxMzU2MC9hbm5vdW5jZW1lbnRzL2RldGFpbC81MjE5OTA4NTA2MTAyMDMzNjY\/c25yPTJfX19cblxuW0BdY2xldmVkb24ubWMgOiBcbkkgYmVsaWV2ZSBFWENZQ0xFLCDjgZfjgZLjgovjg5fjg6njg43jg4Pjg4ggYW5kIOODleODg+OCr+OBqOmOp+eNoyBhcmUgb25seSBhdmFpbGFibGUgaW4gSmFwYW4uICBbQF0gXG5cbk9ubHkgQk9PTUVST0FEIGFuZCBOT1RUT0xPVCBhcmUgYXZhaWxhYmxlIG91dHNpZGUgb2YgSmFwYW4uXG5cblxuXCJQb3NzaWJseSBhdCByaXNrIGxhdGVyXCIsIHRoZSAyIGxhc3QgRjJQIGdhbWVzIGZyb20gUGhvZW5peHggYW5kIEJhbmRhaSBOYW1jbyBTdHVkaW9zIG9uIFN0ZWFtID4+XG5Eb3JvbmtvV2Fua29cbmh0dHBzOi8vc3RlYW1kYi5pbmZvL2FwcC8yNTEyODQwL1xuR29vbmVjdCBbYl0gKG9ubHkgYXZhaWxhYmxlIGluIEphcGFuKSBbL2JdXG5odHRwczovL3N0ZWFtZGIuaW5mby9hcHAvMTg1MDM2MC8=",
-        "is_feeded": 1
-    },
-    {
-        "time_stamp": 1772266599,
-        "group_name": "RemGC",
-        "forum_id": 9,
-        "topic_id": 1736595131052961774,
-        "post_id": 756178665390465143,
-        "author": "clevedon.mc",
-        "content": "V2FyaGFtbWVyIDQwLDAwMDogV2FycGZvcmdlXG5Jbi1nYW1lIHB1cmNoYXNlcyBkaXNhYmxlZC4gU2VydmVyIGNsb3N1cmUgb24gdGhlIDMwdGggb2YgQXByaWwuXG5odHRwczovL3d3dy5mYWNlYm9vay5jb20vc2hhcmUvcC8xSGpRVENQMTI1L1xuaHR0cHM6Ly9zdGVhbWRiLmluZm8vYXBwLzE5ODUxNzAv",
-        "is_feeded": 1
-    },
-    {
-        "time_stamp": 1772288002,
-        "group_name": "RemGC",
-        "forum_id": 9,
-        "topic_id": 1736595131052961774,
-        "post_id": 756178665390483882,
-        "author": "GraVe",
-        "content": "W0BdbWF0LmR1ZiA6IEZpbmFsIHNhbGUgZm9yIFRoZSBTZXF1ZW5jZXJcbmh0dHBzOi8vc3RvcmUuc3RlYW1wb3dlcmVkLmNvbS9uZXdzL2FwcC8zNTY5MjUwL3ZpZXcvNTMzMjQ4NTgxNTA5ODQzMjg3XG5cbmh0dHBzOi8vc3RvcmUuc3RlYW1wb3dlcmVkLmNvbS9hcHAvMzU2OTI1MC9UaGVfU2VxdWVuY2VyL1xuXG5odHRwczovL3N0ZWFtZGIuaW5mby9hcHAvMzU2OTI1MC8gIFtAXSBcblxuRGV2ZWxvcGVyIHN0YXRlZCwgdGhhdCBhZnRlciB0aGUgNTAwIHNhbGVzIHRoZSBnYW1lIGdvdCBhZnRlciB0aGF0IHJlbW92YWwgYW5ub3VuY2VtZW50ICx0aGUgZ2FtZSB3aWxsIG5vdCBiZSByZW1vdmVkIGFueW1vcmUuXG4ocmVtb3ZhbCBhbm5vdW5jZW1lbnQgNnRoIGZlYiwgbm90IHJlbW92ZSBhbm5vdW5jZW1lbnQgMjR0aCBmZWIsIHB1cmUgY29pbmNpZGVuY2UsIGRldmVsb3BlciB3YXMgc3VycGlzZWQgYmVjYXVzZSBvZiB0aGUgc2FsZXMgYW5kIGRlY2lkZWQgdG8gbm90IHJlbW92ZSBpdCBiZWNhdXNlIG9mIGNvbW11bml0eSBqdW1wZWQgaW4p",
-        "is_feeded": 1
-    },
-    {
-        "time_stamp": 1772297136,
-        "group_name": "RemGC",
-        "forum_id": 9,
-        "topic_id": 1736595131052961774,
-        "post_id": 756179002519978011,
-        "author": "daicon",
-        "content": "aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8xMDQ2OTgwL0hPUkdJSFVHSC9cblxuaHR0cHM6Ly94LmNvbS9waXhlbF9qYXBhbi9zdGF0dXMvMjAyNzc2MzE2OTQwNjY0ODcxOVxuSSBkb25cJ3Qga25vdyBpZiBpdHMgYWN0dWFsbHkgYXQgcmlzay4gSXQgd2FzIHJlbW92ZWQgZnJvbSBzYWxlIG9uIHRoZSBTd2l0Y2ggRS1zaG9wIGp1c3QgdG9kYXkuIEl0IGV4aXN0cyBvbiBTdGVhbSBpbiBhIHRlY2huaWNhbGx5IGRpZmZlcmVudCB2ZXJzaW9uLCBidXQgYWxzbyBmcm9tIGEgZGlmZmVyZW50IHB1Ymxpc2hlci4gTm90aGluZ3MgYmVlbiBzYWlkIGFib3V0IHRoZSBTdGVhbSB2ZXJzaW9uIGxlYXZpbmcgc2FsZS5cblxuVGhlIHZlcnNpb24gW2ldXCJIT1JHSUhVR0ggd2l0aCBGUklFTkRTXCJbL2ldIHNlZW1zIHRvIGJlIGNhbmNlbGVkIChJIHRoaW5rPylcbmh0dHBzOi8vc3RvcmUuc3RlYW1wb3dlcmVkLmNvbS9hcHAvMzEyNTg2MC9IT1JHSUhVR0hfd2l0aF9GUklFTkRTL1xuXG5BdGxlYXN0IHRoaXMgaXMgaG93IEkgdW5kZXJzdGFuZCB0aGUgc2l0dWF0aW9uLg==",
-        "is_feeded": 1
-    },
-    {
-        "time_stamp": 1772327909,
-        "group_name": "RemGC",
-        "forum_id": 9,
-        "topic_id": 1736595131052961774,
-        "post_id": 756179002520008807,
-        "author": "\u3004 CHVRCH\u039eS \u0e51",
-        "content": "W0BdZGFpY29uIDogaHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8xMDQ2OTgwL0hPUkdJSFVHSC9cblxuaHR0cHM6Ly94LmNvbS9waXhlbF9qYXBhbi9zdGF0dXMvMjAyNzc2MzE2OTQwNjY0ODcxOVxuSSBkb25cJ3Qga25vdyBpZiBpdHMgYWN0dWFsbHkgYXQgcmlzay4gSXQgd2FzIHJlbW92ZWQgZnJvbSBzYWxlIG9uIHRoZSBTd2l0Y2ggRS1zaG9wIGp1c3QgdG9kYXkuIEl0IGV4aXN0cyBvbiBTdGVhbSBpbiBhIHRlY2huaWNhbGx5IGRpZmZlcmVudCB2ZXJzaW9uLCBidXQgYWxzbyBmcm9tIGEgZGlmZmVyZW50IHB1Ymxpc2hlci4gTm90aGluZ3MgYmVlbiBzYWlkIGFib3V0IHRoZSBTdGVhbSB2ZXJzaW9uIGxlYXZpbmcgc2FsZS5cblxuVGhlIHZlcnNpb24gW2ldXCJIT1JHSUhVR0ggd2l0aCBGUklFTkRTXCJbL2ldIHNlZW1zIHRvIGJlIGNhbmNlbGVkIChJIHRoaW5rPylcbmh0dHBzOi8vc3RvcmUuc3RlYW1wb3dlcmVkLmNvbS9hcHAvMzEyNTg2MC9IT1JHSUhVR0hfd2l0aF9GUklFTkRTL1xuXG5BdGxlYXN0IHRoaXMgaXMgaG93IEkgdW5kZXJzdGFuZCB0aGUgc2l0dWF0aW9uLiAgW0BdIFxuXG5Ob3QgYXQgcmlzaywgQ0VPIG9mIFBpeGVsIGhhcyBwb3N0ZWQgdGhhdCBTdGVhbSB2ZXJzaW9uIHdpbGwgcmVtYWluIGZvciBzYWxlLlxuXG5odHRwczovL3guY29tL2hpZGVfcGl4ZWwvc3RhdHVzLzIwMjc1OTQzNDUzMjc4MDA3MzhcblxuXCJTdGVhbSBhbmQgb3ZlcnNlYXMgdmVyc2lvbnMsIGFzIHdlbGwgYXMgb3RoZXIgcHVibGlzaGVyc1wnIGVkaXRpb25zLCBjYW4gc3RpbGwgYmUgcHVyY2hhc2VkLCBzbyB0aGUgZ2FtZSBpdHNlbGYgd29uXCd0IGRpc2FwcGVhciwgYW5kIEhvZ2kgSHVnaCB3aWxsIGNvbnRpbnVlLiAgXG5Ib3dldmVyLCB0b2RheSBpcyB0aGUgbGFzdCBkYXkgdG8gcHVyY2hhc2UgXCJ3aXRoIEZyaWVuZHNcIiBmb3IgdGhlIGRvbWVzdGljIE5pbnRlbmRvIFN3aXRjaCwgc28gaWYgcG9zc2libGUsIElcJ2QgYmUgaGFwcHkgaWYgeW91IGNvdWxkIHNoYXJlIG9yIHBvc3QgbWVtb3JpZXMgb2YgdGhpcyBnYW1lLiAgXG5UaGFuayB5b3UgdmVyeSBtdWNoLlwi",
-        "is_feeded": 1
-    },
-    {
-        "time_stamp": 1772358541,
-        "group_name": "RemGC",
-        "forum_id": 9,
-        "topic_id": 1736595131052961774,
-        "post_id": 756179002520031105,
-        "author": "clevedon.mc",
-        "content": "U3RlbGxhcmNyYWZ0IFRoZSBQcm9sb2d1ZVxuaHR0cHM6Ly9zdGVhbWNvbW11bml0eS5jb20vZ2FtZXMvMjg3MjYyMC9hbm5vdW5jZW1lbnRzL2RldGFpbC81MjQyNDMyODQ1OTUzMTEzMjAvXG5odHRwczovL3N0ZWFtZGIuaW5mby9hcHAvMjg3MjYyMC8=",
-        "is_feeded": 1
-    },
-    {
         "time_stamp": 1772459577,
         "group_name": "RemGC",
         "forum_id": 9,
@@ -1987,6 +1907,86 @@
         "post_id": 802344445710366049,
         "author": "fycher_",
         "content": "W0BdU2VhbiBUcm9uZyA6IFVua25vd24gcmVtb3ZlZCBnYW1lLCBidXQgeW91IGNhbiBhZGQgaXQgdG8geW91ciBsaWJyYXJ5OlxuVmFsdmVUZXN0QXBwNDYxNTAwMCBbQF0gXG5JdFwncyBub3QgcmVtb3ZlZCBzaW5jZSBpdFwncyBvbmx5IGFwcGVhcmVkIG9uIHN0ZWFtZGIgMTQgaHJzIGFnb1xuXCJDaGFuZ2VsaXN0ICMzNTE1ODM1MyBpbnN0YWxsZGlyOiBNZWFuaW5nbGVzcyBSYW5kb20gTnVtYmVycyBEZW1vXCJcbk1pZ2h0IGJlIHVwY29taW5nIGRlbW8gb2YgdGhpcyBnYW1lXG5odHRwczovL3N0b3JlLnN0ZWFtcG93ZXJlZC5jb20vYXBwLzQyMTEwNjAvTWVhbmluZ2xlc3NfUmFuZG9tX051bWJlcnMv",
+        "is_feeded": 1
+    },
+    {
+        "time_stamp": 1775917694,
+        "group_name": "RemGC",
+        "forum_id": 9,
+        "topic_id": 1736595131052961774,
+        "post_id": 802344445710373152,
+        "author": "Duce303",
+        "content": "U2V4ZGl2ZXJzIHdhcyBqdXN0IHJlbW92ZWQgZnJvbSB0aGUgU3RlYW0gc3RvcmU6IFxuaHR0cHM6Ly9zdGVhbWRiLmluZm8vYXBwLzMyNDQ2NDAv",
+        "is_feeded": 1
+    },
+    {
+        "time_stamp": 1775917699,
+        "group_name": "RemGC",
+        "forum_id": 9,
+        "topic_id": 1736595131052961774,
+        "post_id": 802344445710373950,
+        "author": "Lartele",
+        "content": "aHR0cHM6Ly9zdGVhbWRiLmluZm8vYXBwLzM3OTU1NDAvXG5odHRwczovL3N0b3JlLnN0ZWFtcG93ZXJlZC5jb20vYXBwLzM3OTU1NDAvREVMRVRFL1xuaHR0cHM6Ly9zdGVhbWNvbW11bml0eS5jb20vZ2FtZXMvMzc5NTU0MC9hbm5vdW5jZW1lbnRzL2RldGFpbC80OTI3MjE4ODgyMDQ2ODkwMjA\/c25yPTJfX18=",
+        "is_feeded": 1
+    },
+    {
+        "time_stamp": 1775919694,
+        "group_name": "RemGC",
+        "forum_id": 9,
+        "topic_id": 1736595131052961774,
+        "post_id": 802344445710376340,
+        "author": "Abstrazard",
+        "content": "UmVsaXN0ZWRcbldhcmhhbW1lciA0MCwwMDA6IEFybWFnZWRkb25cbmh0dHBzOi8vc3RvcmUuc3RlYW1wb3dlcmVkLmNvbS9hcHAvMzEyMzcwL1dhcmhhbW1lcl80MDAwMF9Bcm1hZ2VkZG9u",
+        "is_feeded": 1
+    },
+    {
+        "time_stamp": 1775919701,
+        "group_name": "RemGC",
+        "forum_id": 9,
+        "topic_id": 1736595131052961774,
+        "post_id": 802344445710376952,
+        "author": "VovanVV1982",
+        "content": "W0BdRHVjZTMwMyA6IFNleGRpdmVycyB3YXMganVzdCByZW1vdmVkIGZyb20gdGhlIFN0ZWFtIHN0b3JlOiBcbmh0dHBzOi8vc3RlYW1kYi5pbmZvL2FwcC8zMjQ0NjQwLyAgW0BdIFxuaHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL3BvaW50cy9zaG9wL2FwcC8zMjQ0NjQwL3Jld2FyZC8zNjA5MDMvP2N1cmF0b3JfY2xhbmlkPTQ3NzcyODJcblxuXG4rY2FyZHM=",
+        "is_feeded": 1
+    },
+    {
+        "time_stamp": 1775919707,
+        "group_name": "RemGC",
+        "forum_id": 9,
+        "topic_id": 1736595131052961774,
+        "post_id": 802344445710377089,
+        "author": "WYDRA_GAMING\ud83e\udda6",
+        "content": "W0BdQWJzdHJhemFyZCA6IFJlbGlzdGVkXG5XYXJoYW1tZXIgNDAsMDAwOiBBcm1hZ2VkZG9uXG5odHRwczovL3N0b3JlLnN0ZWFtcG93ZXJlZC5jb20vYXBwLzMxMjM3MC9XYXJoYW1tZXJfNDAwMDBfQXJtYWdlZGRvbiAgW0BdIFxuQXQgdGhpcyByYXRlIHRoZXkgcHJvYmFseSB3b250IHJlbGlzdCBmMnAgb25saW5lIHRpdGxlcyBhbmQgdGl0bGVzIGZyb20gZGlzbWFudGxlZCBzdHVkaW9zIGxpa2Ugc3BhY2UgaHVsayBhbmQgc3BhY2UgaHVsayBhc2NlbnNpb24=",
+        "is_feeded": 1
+    },
+    {
+        "time_stamp": 1775922765,
+        "group_name": "RemGC",
+        "forum_id": 9,
+        "topic_id": 1736595131052961774,
+        "post_id": 802344445710380153,
+        "author": "VovanVV1982",
+        "content": "W0BdY2xldmVkb24ubWMgOiBcblJvZ3VlIFNhbXVyYWk6IFByb2xvZ3VlXG5odHRwczovL3N0ZWFtY29tbXVuaXR5LmNvbS9nYW1lcy8zMzQ4NjYwL2Fubm91bmNlbWVudHMvZGV0YWlsLzUxMjk4NzQ1MjUyMzE1MTU4MS9cbmh0dHBzOi8vc3RlYW1kYi5pbmZvL2FwcC8zMzQ4NjYwL1xuIFtAXSBcbmkganVzdCBub3cgdXNlIHN0ZWFtZGIgZm9yIGFkZCBnYW1lLiB3b3JrZWRcblxuW0BdV1lEUkFfR0FNSU5H8J+mpiA6IFRoZSBmYXJtIDUxIGlzIGZpbGluZyBmb3IgYmFua3J1cGN5IGJ1dCB0aGV5IGFyZSBzdGlsbCB0cnlpbmcgdG8gaG9sZCBvbiwgc28gaXQgcHV0cyBpdCBhdCBzZW1pIHJpc2sgYXQgdGhlIG1vbWVudFxuaHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8xMDE2ODAwL0NoZXJub2J5bGl0ZV9Db21wbGV0ZV9FZGl0aW9uL1xuaHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8yMDc1MTAwL0NoZXJub2J5bGl0ZV8yX0V4Y2x1c2lvbl9ab25lP2N1cmF0b3JfY2xhbmlkPTQ3NzcyODIgIFtAXSBcbisgaHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC8yMDk0MTQwL0NoZXJub2J5bGl0ZV9TaG9ydF9TdG9yeV9UaGVfQXJyaXZhbC8=",
+        "is_feeded": 1
+    },
+    {
+        "time_stamp": 1775926883,
+        "group_name": "RemGC",
+        "forum_id": 9,
+        "topic_id": 1736595131052961774,
+        "post_id": 802344445710385593,
+        "author": "\u265a - \u68a6\u65c5\u9e7f\u4eba",
+        "content": "aHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC80Njc2NjAvUGFyYW5vcm1hbF9BY3Rpdml0eV9UaGVfTG9zdF9Tb3VsLz9jdXJhdG9yX2NsYW5pZD05NzMwMjA1XG5cbmh0dHBzOi8veC5jb20vcGF2cmdhbWUvc3RhdHVzLzIwNDI2Njk0ODQzOTAxNzkwMDg\/cz00NiZ0PS0ySl9fUUFWd055VGd4MnozcWFuUnc=",
+        "is_feeded": 1
+    },
+    {
+        "time_stamp": 1775930073,
+        "group_name": "RemGC",
+        "forum_id": 9,
+        "topic_id": 1736595131052961774,
+        "post_id": 802344445710386141,
+        "author": "Rickyel\u2122",
+        "content": "W0Bd4pmaIC0g5qKm5peF6bm\/5Lq6IDogaHR0cHM6Ly9zdG9yZS5zdGVhbXBvd2VyZWQuY29tL2FwcC80Njc2NjAvUGFyYW5vcm1hbF9BY3Rpdml0eV9UaGVfTG9zdF9Tb3VsLz9jdXJhdG9yX2NsYW5pZD05NzMwMjA1XG5cbmh0dHBzOi8veC5jb20vcGF2cmdhbWUvc3RhdHVzLzIwNDI2Njk0ODQzOTAxNzkwMDg\/cz00NiZ0PS0ySl9fUUFWd055VGd4MnozcWFuUncgIFtAXSBcblxuaHR0cHM6Ly9zdGVhbWNvbW11bml0eS5jb20vZ3JvdXBzL1JlbUdDL2Rpc2N1c3Npb25zLzkvMTczNjU5NTEzMTA1Mjk2MTc3NC8\/dHNjbj0xNzc1OTI2NTI1I2M4MDIzNDQ0NDU3MTAzNTk4OTA=",
         "is_feeded": 1
     }
 ]
